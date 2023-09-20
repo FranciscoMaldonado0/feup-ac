@@ -1,0 +1,22 @@
+Columns Meaning
+
+GP - Games Played
+GS - Games Started
+oRebounds // ORB - Offensive Rebounds
+dRebounds // DRB - Defensive Rebounds
+TRB - Total Rebounds
+PF - Personal Fouls
+FG - Field Goals
+FT - Free Throws
+3 - 3 Point 
+Post - The area of the basketball court from the free-throw line to the baseline
+DQ - Disqualification (fez demasiadas faltas)
+PA - Points Against
+OREB - Offensive ReboundsG
+DREB - Defensive Rebounds
+REB - Rebounds
+ASTS - Assists
+STL - Steals
+BLK - Blocks
+TO - Turnovers
+conf - Conference Tournament Games
