@@ -20,3 +20,7 @@ STL - Steals
 BLK - Blocks
 TO - Turnovers
 conf - Conference Tournament Games
+
+NOTA:
+M - made
+A - attempted
