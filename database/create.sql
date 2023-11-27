@@ -122,7 +122,7 @@ CREATE TABLE awards_players(
 CREATE TABLE players_teams(
   playerID TEXT,
   year INTEGER,
-  stINTEGER INTEGER,
+  stint INTEGER,
   tmID TEXT,
   lgID TEXT,
   GP INTEGER,
